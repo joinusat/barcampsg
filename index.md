@@ -1,5 +1,3 @@
-# Barcamp Singapore 
-
 ![Barcamp Singapore Logo](barcampsg.jpeg)
 
 ## WHAT IS A BARCAMP AND WHO ARE THE ATTENDEES?
