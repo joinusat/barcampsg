@@ -2,11 +2,22 @@
 
 ## WHAT IS A BARCAMP AND WHO ARE THE ATTENDEES?
 
-Barcamps are meetups where people come together to learn from each other.  We discuss a range of topics - design,  books, science, movies, space exploration, health, food, tech (and its implication on society), travel and more. You are welcome to propose a topic for discussion. The particpants vote and select the topics they want to join. 
+Barcamps are meetups where people come together to learn from each other.  We discuss a range of topics - design,  books, science, movies, space exploration, health, food, tech (and its implication on society), travel and more.
+
+![Barcamp Singapore topics](topics.jpeg)
+
+You are welcome to propose a topic for discussion. The particpants vote and select the topics they want to join. 
+
+![Barcamp Singapore discussions](discussions.jpeg)
 
 ## HOW DOES ONE VOTE FOR A TOPIC OR POST A DISCUSSION TOPIC?
 
+![Barcamp Singapore voting](topicsvoting.jpeg)
+
 As you enter the venue, you will see the topic wall. The participants who are keen on presenting or leading a discussion would have posted their topics on the wall. Take the marker pen and vote for the topics that you like.
+
+![Barcamp Singapore topics](topicsonwall.jpeg)
+
 If you want to lead a discussion or make a presentation, pick a blank post-it, fill in your topic (and your name)  and post it on the topic wall. The attendees will walk around checking out the topics. If they like your topic, they will vote for it. Once you have 10 to 15 votes, we will assign a room and a time slot for you. We usually have multiple rooms to accomodate parallel sessions. The participants are free to leave a discussion and join another one.
 
 ## WHAT IS THE FORMAT OF PRESENTATION? HOW LONG IS EACH PRESENTATION SLOT?
